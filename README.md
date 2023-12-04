@@ -4,8 +4,6 @@
 
 ### Personal Chat Room or Workspace to share resources and hangout with friends.
 
-### https://chatifynew.vercel.app/
-
 <div align="center">
   <img alt="Demo" src="./Assets/chatify.png" />
 </div>
@@ -31,8 +29,8 @@
 
 ### Clone this repository
 
-`git clone https://github.com/soumyajit4419/Chatify.git` <br/>
-`cd chatify`
+`git clone https://github.com/takeshi-su57/Chatify.git` <br/>
+`cd chatroom`
 
 ### Install Dependencies
 
